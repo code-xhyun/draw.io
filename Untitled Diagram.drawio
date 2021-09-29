@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T16:38:49.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="r_ssk0-0RMr3BiIPkdXZ" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T16:39:53.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="yZ0c03osvewxhlO540_m" version="15.3.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2037" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
         <mxCell id="IK0jCF15_sajLaRYrccU-12" value="신규 유저 프론트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IK0jCF15_sajLaRYrccU-13" value="AWS&lt;br&gt;SNS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IK0jCF15_sajLaRYrccU-13" value="AWS&lt;br&gt;SES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IK0jCF15_sajLaRYrccU-14" value="2." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
@@ -146,7 +146,7 @@
         <mxCell id="IK0jCF15_sajLaRYrccU-22" value="신규 유저 프론트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IK0jCF15_sajLaRYrccU-23" value="AWS&lt;br&gt;SNS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IK0jCF15_sajLaRYrccU-23" value="AWS&lt;br&gt;SES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IK0jCF15_sajLaRYrccU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="IK0jCF15_sajLaRYrccU-25" target="IK0jCF15_sajLaRYrccU-23">
