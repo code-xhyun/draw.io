@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T04:46:21.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="dS6vEUvwmfvbf4Oax5Rj" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T04:48:37.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="mt9nbHfK4um08kZdhGwb" version="15.7.1" type="github">
   <diagram id="Ags1phsDS0aTwdxZoQtE" name="Page-1">
     <mxGraphModel dx="2279" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dHmSMfp0UCBvBHTw-1_v-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1680" width="190" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="g-lCjl9Iwci3eXvBsUKC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" source="g-lCjl9Iwci3eXvBsUKC-19" target="wnBwBd8DrcGJJynO4ClW-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -399,6 +402,9 @@
             <mxPoint x="496" y="1581" as="sourcePoint" />
             <mxPoint x="666" y="1581" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dHmSMfp0UCBvBHTw-1_v-21" value="DAU 확인용" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1660" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
