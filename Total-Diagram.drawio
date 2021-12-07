@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T04:48:37.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="mt9nbHfK4um08kZdhGwb" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T04:50:03.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="I7jL474siA_E8NEHGLTI" version="15.7.1" type="github">
   <diagram id="Ags1phsDS0aTwdxZoQtE" name="Page-1">
-    <mxGraphModel dx="2279" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -377,7 +377,7 @@
           <mxGeometry x="554.25" y="1380" width="233.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dHmSMfp0UCBvBHTw-1_v-6" value="true" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=-0.119;entryY=0.626;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tOUqUhgswsMUb7JnzcR3-12">
-          <mxGeometry x="-0.0588" relative="1" as="geometry">
+          <mxGeometry x="-1" y="10" relative="1" as="geometry">
             <mxPoint x="500" y="1700" as="sourcePoint" />
             <mxPoint x="660" y="1700" as="targetPoint" />
             <mxPoint as="offset" />
@@ -391,7 +391,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dHmSMfp0UCBvBHTw-1_v-8" value="false" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
-          <mxGeometry x="-0.0588" relative="1" as="geometry">
+          <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="500" y="1720" as="sourcePoint" />
             <mxPoint x="670" y="1720" as="targetPoint" />
             <mxPoint as="offset" />
@@ -405,6 +405,15 @@
         </mxCell>
         <mxCell id="dHmSMfp0UCBvBHTw-1_v-21" value="DAU 확인용" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="1660" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHmSMfp0UCBvBHTw-1_v-24" value="SET&lt;br&gt;aliveCheckTime" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHmSMfp0UCBvBHTw-1_v-25" value="SET" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="1700" as="sourcePoint" />
+            <mxPoint x="665" y="1700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
