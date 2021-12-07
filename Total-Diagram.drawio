@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T04:50:03.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="I7jL474siA_E8NEHGLTI" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T04:54:46.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="qdV-txQRM4EeJd2Z61rA" version="15.7.1" type="github">
   <diagram id="Ags1phsDS0aTwdxZoQtE" name="Page-1">
-    <mxGraphModel dx="2170" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1932" dy="186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,7 +285,7 @@
             <mxPoint x="-125" y="228" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dHmSMfp0UCBvBHTw-1_v-3" value="aliveCheckTime 키와&lt;br&gt;현재 날짜 비교" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;entryX=-0.024;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tOUqUhgswsMUb7JnzcR3-5" target="dHmSMfp0UCBvBHTw-1_v-5">
+        <mxCell id="dHmSMfp0UCBvBHTw-1_v-3" value="aliveCheckDate 키와&lt;br&gt;현재 날짜 비교" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;entryX=-0.024;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tOUqUhgswsMUb7JnzcR3-5" target="dHmSMfp0UCBvBHTw-1_v-5">
           <mxGeometry x="0.2738" y="-50" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="39" y="260" as="sourcePoint" />
             <mxPoint x="45" y="276.24" as="targetPoint" />
@@ -406,7 +406,7 @@
         <mxCell id="dHmSMfp0UCBvBHTw-1_v-21" value="DAU 확인용" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="1660" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dHmSMfp0UCBvBHTw-1_v-24" value="SET&lt;br&gt;aliveCheckTime" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dHmSMfp0UCBvBHTw-1_v-24" value="SET&lt;br&gt;aliveCheckDate" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="1710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dHmSMfp0UCBvBHTw-1_v-25" value="SET" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
