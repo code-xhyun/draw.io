@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T03:18:45.909Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WSzUu64vVXX9Ck-Quu_a" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T03:28:59.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Ws3KfHGkSktcxOeF-ODX" version="16.1.0" type="github">
   <diagram id="Ags1phsDS0aTwdxZoQtE" name="Page-1">
-    <mxGraphModel dx="2898" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2495" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -415,11 +415,29 @@
             <mxPoint x="665" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-1" value="Client" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="273.5" y="2150" width="100" height="340" as="geometry" />
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-1" value="SDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="2160" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="Tjb0N3-KQUtV-mj4H4BR-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Tjb0N3-KQUtV-mj4H4BR-1">
           <mxGeometry x="45" y="70" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-3" value="Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="2160" width="100" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Tjb0N3-KQUtV-mj4H4BR-3">
+          <mxGeometry x="45" y="70" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-5" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="2160" width="100" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Tjb0N3-KQUtV-mj4H4BR-5">
+          <mxGeometry x="45" y="70" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-7" value="/preferences?type=device,alive" style="verticalAlign=bottom;endArrow=block;entryX=0.107;entryY=0.092;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="317" y="2251" as="sourcePoint" />
+            <mxPoint x="567.0699999999997" y="2251.08" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
