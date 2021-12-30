@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T03:44:04.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xuE_724UHS-NTGl1AFQC" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T03:53:54.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0EgfyH-ojd-NpccPZEY4" version="16.1.0" type="github">
   <diagram id="Ags1phsDS0aTwdxZoQtE" name="Page-1">
-    <mxGraphModel dx="2495" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2682" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,7 +439,7 @@
             <mxPoint x="566.0699999999997" y="2251.08" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-8" value="SELECT device,alive&#xa; FROM DB" style="verticalAlign=bottom;endArrow=block;entryX=0.107;entryY=0.092;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-8" value="SELECT device,alive" style="verticalAlign=bottom;endArrow=block;entryX=0.107;entryY=0.092;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="575" y="2268" as="sourcePoint" />
             <mxPoint x="825.0699999999997" y="2268.08" as="targetPoint" />
@@ -460,7 +460,7 @@
         <mxCell id="Tjb0N3-KQUtV-mj4H4BR-11" value="쿼리스트링 type의 value는 다중으로 받을수있도록&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="379" y="2190" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-13" value="Manage.seeso.io" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-13" value="manage.seeso.io" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="260.5" y="2520" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="Tjb0N3-KQUtV-mj4H4BR-14" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Tjb0N3-KQUtV-mj4H4BR-13">
@@ -472,11 +472,44 @@
         <mxCell id="Tjb0N3-KQUtV-mj4H4BR-16" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Tjb0N3-KQUtV-mj4H4BR-15">
           <mxGeometry x="45" y="70" width="10" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-23" value="/register/device" style="verticalAlign=bottom;endArrow=block;entryX=0.107;entryY=0.092;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Tjb0N3-KQUtV-mj4H4BR-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-204.5" y="100" as="sourcePoint" />
+            <mxPoint x="45.56999999999971" y="100.07999999999993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Tjb0N3-KQUtV-mj4H4BR-17" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="779.5" y="2520" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="Tjb0N3-KQUtV-mj4H4BR-18" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Tjb0N3-KQUtV-mj4H4BR-17">
           <mxGeometry x="45" y="70" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-21" value="dispatch" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="2605" as="sourcePoint" />
+            <mxPoint x="305" y="2605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-24" value="INSERT device" style="verticalAlign=bottom;endArrow=block;entryX=0.107;entryY=0.092;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="576" y="2640" as="sourcePoint" />
+            <mxPoint x="826.0699999999997" y="2640.0800000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-26" value="callback" style="verticalAlign=bottom;endArrow=block;entryX=1.21;entryY=0.374;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=-0.069;exitY=0.371;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="822.2099999999999" y="2664.0000000000005" as="sourcePoint" />
+            <mxPoint x="576.0000000000003" y="2664.7200000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-27" value="callback" style="verticalAlign=bottom;endArrow=block;entryX=1.21;entryY=0.374;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=-0.069;exitY=0.371;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="564.1" y="2680.640000000001" as="sourcePoint" />
+            <mxPoint x="317.89000000000044" y="2681.3599999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tjb0N3-KQUtV-mj4H4BR-28" value="유저가 디바이스 등록하는 기능" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="399" y="2520" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
