@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T16:42:29.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bw1pb2PQRdBZVCy4_-LK" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T16:48:11.348Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="sDGxHlM-X3pguaMsKDBN" version="16.1.2" type="github">
   <diagram id="Ags1phsDS0aTwdxZoQtE" name="Page-1">
     <mxGraphModel dx="2809" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -517,7 +517,7 @@
         <mxCell id="XmWi23d1Qd07ICbDgrR1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmWi23d1Qd07ICbDgrR1-1" target="XmWi23d1Qd07ICbDgrR1-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XmWi23d1Qd07ICbDgrR1-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmWi23d1Qd07ICbDgrR1-1" target="XmWi23d1Qd07ICbDgrR1-20">
+        <mxCell id="XmWi23d1Qd07ICbDgrR1-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="XmWi23d1Qd07ICbDgrR1-1" target="XmWi23d1Qd07ICbDgrR1-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XmWi23d1Qd07ICbDgrR1-1" value="admin" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_beanstalk;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
@@ -526,7 +526,7 @@
         <mxCell id="XmWi23d1Qd07ICbDgrR1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmWi23d1Qd07ICbDgrR1-2" target="XmWi23d1Qd07ICbDgrR1-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XmWi23d1Qd07ICbDgrR1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XmWi23d1Qd07ICbDgrR1-2" target="XmWi23d1Qd07ICbDgrR1-20">
+        <mxCell id="XmWi23d1Qd07ICbDgrR1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XmWi23d1Qd07ICbDgrR1-20" target="XmWi23d1Qd07ICbDgrR1-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XmWi23d1Qd07ICbDgrR1-2" value="auth" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_beanstalk;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
@@ -535,7 +535,7 @@
         <mxCell id="XmWi23d1Qd07ICbDgrR1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmWi23d1Qd07ICbDgrR1-3" target="XmWi23d1Qd07ICbDgrR1-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XmWi23d1Qd07ICbDgrR1-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmWi23d1Qd07ICbDgrR1-3" target="XmWi23d1Qd07ICbDgrR1-20">
+        <mxCell id="XmWi23d1Qd07ICbDgrR1-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="XmWi23d1Qd07ICbDgrR1-3" target="XmWi23d1Qd07ICbDgrR1-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XmWi23d1Qd07ICbDgrR1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmWi23d1Qd07ICbDgrR1-3" target="XmWi23d1Qd07ICbDgrR1-8">
@@ -612,6 +612,9 @@
         </mxCell>
         <mxCell id="XmWi23d1Qd07ICbDgrR1-47" value="issue key *to auth*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2180" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XmWi23d1Qd07ICbDgrR1-48" value="send email&lt;br&gt;*to admin*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2241" y="340" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
