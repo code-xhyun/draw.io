@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T09:23:59.791Z" agent="5.0 (iPad; CPU OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1" etag="zKw2SOjpcsr9VzpQN77W" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-04T09:24:10.104Z" agent="5.0 (iPad; CPU OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1" etag="zlZic3_ToX5-K01D-9vr" version="16.5.3" type="github">
   <diagram id="fEmHT7kOdsoCuKjdsANc" name="Page-1">
     <mxGraphModel dx="1335" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -146,8 +146,8 @@
         <mxCell id="RpnBOwdHUaDScRDf1t51-10" value="Event bridge" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="500" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RpnBOwdHUaDScRDf1t51-16" value="- 다이아몬드는 유입서버&lt;br&gt;- 초록선 관계: 서비스 종속 관계&lt;br&gt;- 흰색선 관계: 서비스 호출관계" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontFamily=Helvetica;fontSize=16;align=left;" vertex="1" parent="1">
-          <mxGeometry x="919" width="250" height="190" as="geometry" />
+        <mxCell id="RpnBOwdHUaDScRDf1t51-16" value="- 다이아몬드는 유입서버&lt;br&gt;- 초록선 관계: 서비스 종속 관계&lt;br&gt;- 흰색선 관계: 서비스 호출관계" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontFamily=Helvetica;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="919" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
